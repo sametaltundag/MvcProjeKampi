@@ -77,3 +77,16 @@ D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.Core
 D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CopyComplete
 D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.dll
 D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.pdb
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.dll
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.dll
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.dll
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.dll
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.pdb
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.dll.config
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.pdb
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.dll.config
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.pdb
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.dll.config
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.xml
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.dll
+D:\murat-yucedag\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.xml
