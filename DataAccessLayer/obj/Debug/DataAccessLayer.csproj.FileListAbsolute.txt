@@ -15,3 +15,5 @@ D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources

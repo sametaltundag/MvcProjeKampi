@@ -1,0 +1,68 @@
+﻿@model EntityLayer.Concrete.Writer
+
+@{
+    ViewBag.Title = "AddWriter";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Yazar Kaydı</h2>
+<br />
+
+<div class="container">
+    <form class="form-group" method="post">
+        <div class="row">
+            <div class="col-6">
+                <input type="text" placeholder="Yazar Ad" name="WriterName" class="form-control" />
+                @Html.ValidationMessageFor(x => x.WriterName)
+            </div>
+
+            <div class="col-6">
+                <input type="text" placeholder="Yazar Soyad" name="WriterSurname" class="form-control" />
+                @Html.ValidationMessageFor(x => x.WriterSurname)
+            </div>
+        </div>
+
+        <br />
+
+        <div class="row">
+            <div class="col-12">
+                <textarea placeholder="Yazar Hakkında" rows="4" name="WriterAbout" class="form-control"></textarea>
+                @Html.ValidationMessageFor(x => x.WriterAbout)
+            </div>
+        </div>
+
+        <br />
+
+        <div class="row">
+            <div class="col-4">
+                <input type="text" placeholder="Yazar Mail" name="WriterMail" class="form-control" />
+                @Html.ValidationMessageFor(x => x.WriterMail)
+            </div>
+
+            <div class="col-4">
+                <input type="text" placeholder="Yazar Şifre" name="WriterPassword" class="form-control" />
+                @Html.ValidationMessageFor(x => x.WriterPassword)
+            </div>
+            
+            <div class="col-4">
+                <input type="text" placeholder="Yazar Ünvanı" name="WriterTitle" class="form-control" />
+                @Html.ValidationMessageFor(x => x.WriterTitle)
+            </div>
+        </div>
+
+        <br />
+
+        <div class="row">
+            <div class="col-12">
+                <input type="file" placeholder="Yazar Şifre" name="WriterImage" class="form-control" />
+                @Html.ValidationMessageFor(x => x.WriterImage)
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="text-center col-12">
+                <button class="btn btn-success" type="submit">Kaydet</button>
+            </div>
+        </div>
+    </form>
+</div>
