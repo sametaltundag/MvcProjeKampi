@@ -29,7 +29,7 @@
         <div class="row">
             <div class="col-6">
                 <label>Yazar</label>
-                @Html.TextBoxFor(x => x.WriterID, new { @class = "form-control" })
+                @Html.DropDownListFor(x => x.WriterID,(List<SelectListItem>)ViewBag.VLW, new { @class = "form-control" })
                 @Html.ValidationMessageFor(x => x.WriterID)
             </div>
         </div>

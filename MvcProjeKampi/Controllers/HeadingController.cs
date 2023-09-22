@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Xml;
 
 namespace MvcProjeKampi.Controllers
 {
@@ -30,6 +31,13 @@ namespace MvcProjeKampi.Controllers
                                                   Text = x.CategoryName,
                                                   Value = x.CategoryID.ToString()
                                               }).ToList();
+            List<SelectListItem> valueWriter = (from x in wm.GetList()
+                                                select new SelectListItem
+                                                {
+                                                Text = x.WriterName +" " +x.WriterSurname,
+                                                Value = x.WriterID.ToString()
+                                                }).ToList();
+            ViewBag.VLW = valueWriter;
             ViewBag.VLC = catList;
             return View();
         }
