@@ -17,3 +17,4 @@ D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrati
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
