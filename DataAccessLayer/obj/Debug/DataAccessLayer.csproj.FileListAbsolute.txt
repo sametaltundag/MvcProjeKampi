@@ -18,3 +18,4 @@ D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
