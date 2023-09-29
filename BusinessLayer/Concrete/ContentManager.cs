@@ -42,5 +42,10 @@ namespace BusinessLayer.Concrete
         {
             throw new NotImplementedException();
         }
+
+        public List<Content> GetListByHeadingId(int id)
+        {
+            return _contentDal.List(x => x.HeadingID == id);
+        }
     }
 }
