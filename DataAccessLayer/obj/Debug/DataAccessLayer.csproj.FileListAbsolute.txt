@@ -19,3 +19,5 @@ D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrati
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
 D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentStatusadd.resources
+D:\murat-yucedag\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_heading_addstatus.resources
